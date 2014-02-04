@@ -2,6 +2,8 @@
 
 CommunityEngine [![Build Status](https://secure.travis-ci.org/bborn/communityengine.png)](http://travis-ci.org/bborn/communityengine)
 
+asdffdagfd
+
 Information at: [http://www.communityengine.org](http://www.communityengine.org)
 
 Requirements:
